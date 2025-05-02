@@ -1,7 +1,7 @@
 # CutsceneManager
 
-## Offical github
+Offical github
 
-## By speedetoon
+By speedetoon
 roblox name: @rugg3344
 discord name: @rugg3344
